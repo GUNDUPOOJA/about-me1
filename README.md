@@ -28,7 +28,8 @@ In order to publish a page to git hub pages the following things are strongly re
 
 ## contributors
 - Name : Gundu pooja
-- Course : Applied computer science
+- Course :Applied computer science
+
 ![image](https://imgc.allpostersimages.com/img/print/u-g-F5ECKU0.jpg?w=550&h=550&p=0)
 
 
