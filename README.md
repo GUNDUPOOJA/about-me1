@@ -10,23 +10,26 @@ This repository is for the Northwest Missouri State University Class: Developing
 
 ## Recommended Tools
 In order to publish a page to git hub pages the following things are strongly recommended.
+1. gitclone
+1. gitcommit master
+1. Tortoise git
+1. gitbash
+1. Visual studio
 
-1. Access to a computer with a secure internet connection
-1. A github account with a long password
-1. A repository with at least a README.md or a index.md and some content in those files.
 
- These things are the bare minimum, I would say, to publish a page with github pages. To take your github page to the next level, I would reccommend installing git or some git client on your machine and a text editor to get really fancy.
 
 ## Recommended Resources
 - [W3schools](https://www.w3schools.com)
 - [github](https://github.com)
 - [Editing your Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet[(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
  These are all good resources for answering any questions one may have during web development.
 
 ## contributors
 - Name : Gundu pooja
 - Course : Applied computer science
+
 
 
 
