@@ -3,7 +3,7 @@
 
 ## Repository links
 - [Source repository](https://github.com/GUNDUPOOJA/kebob-case)
-- [Hosted page](https://gundupooja.github.io/kebob-case/)
+- [Hosted page]( https://gundupooja.github.io/kebob-case/)
 
 ## about
 This repository is for the Northwest Missouri State University Class: Developing Web Apps and Services to introduce Gundu pooja and to get to know what tools I like to use for web development.
