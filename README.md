@@ -21,6 +21,7 @@ In order to publish a page to git hub pages the following things are strongly re
 - [W3schools](https://www.w3schools.com)
 - [github](https://github.com)
 - [Editing your Markdown](https://guides.github.com/features/mastering-markdown/)
+
  These are all good resources for answering any questions one may have during web development.
 
 ## contributors
