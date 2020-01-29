@@ -1,15 +1,24 @@
 # kebob-case
-## A guide for markdown language
-- [webpage](https://github.com/GUNDUPOOJA/kebob-case)
-- [source](https://github.com/GUNDUPOOJA/kebob-case/edit/master/README.md)
-## About
-These repositories will be about my projects that I am working on, one that links to my page as well, and some other side projects and open-source projects too.
+
+## Repository links
+-[Source repository](https://github.com/GUNDUPOOJA/kebob-case)
+- [Hosted page](https://github.com/GUNDUPOOJA/kebob-case/edit/master/README.md)
+
+## about
+This repository is for the Northwest Missouri State University Class: Developing Web Apps and Services to introduce Gundu pooja and to get to know what tools I like to use for web development.
+
 ## Recommended Tools
-- To create your website, you will first need a GitHub account. You can sign up for an account at github.com.
+In order to publish a page to git hub pages the following things are strongly recommended.
 
-- For pushing and pulling code to and from the repository, I would recommend getting GitHub Desktop. It’s very easy to use, especially for beginners.
+1.Access to a computer with a secure internet connection
+1.A github account with a long password
+1.A repository with at least a README.md or a index.md and some content in those files.
+1.The ability to go into the settings of said github repository and change the github pages settings and change the source to master branch.
+These things are the bare minimum, I would say, to publish a page with github pages. To take your github page to the next level, I would reccommend installing git or some git client on your machine and a text editor to get really fancy.
 
-- Lastly, I would recommend Visual Studio Code in order to edit the Markdown files that you will use for the website. A link for assistance with Markdown can be found below.
+## Recommended Resources
+
+
 
 ## contributors
 - Name : Gundu pooja
