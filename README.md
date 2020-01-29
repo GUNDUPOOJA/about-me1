@@ -1,7 +1,7 @@
 # kebob-case
 ## A guide for markdown language
-- webpage
-- source
+- [webpage](https://github.com/GUNDUPOOJA/kebob-case)
+- [source](https://github.com/GUNDUPOOJA/kebob-case/edit/master/README.md)
 ## About
 These repositories will be about my projects that I am working on, one that links to my page as well, and some other side projects and open-source projects too.
 ## Recommended Tools
@@ -12,8 +12,8 @@ These repositories will be about my projects that I am working on, one that link
 - Lastly, I would recommend Visual Studio Code in order to edit the Markdown files that you will use for the website. A link for assistance with Markdown can be found below.
 
 ## contributors
-Name : Gundu pooja
-Course : Applied computer science
+- Name : Gundu pooja
+- Course : Applied computer science
 
 
 
