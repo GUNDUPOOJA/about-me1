@@ -26,5 +26,5 @@ In order to publish a page to git hub pages the following things are strongly re
 - Name : Gundu pooja
 - Course :Applied computer science
 
-![image](
+
 
