@@ -2,8 +2,8 @@
   Module 1: P1 Published Site Web Applications Assignment
 
 ## Repository links
-- [Source repository](https://github.com/GUNDUPOOJA/kebob-case)
-- [Hosted page](
+- [Source repository]()
+- [Hosted page](https://gundupooja.github.io/about-me1/)
 ## about
 This repository is about me and to explain the tools required for web development.
 
