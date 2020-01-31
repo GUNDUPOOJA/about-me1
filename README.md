@@ -25,6 +25,6 @@ In order to publish a page to git hub pages the following things are strongly re
 ## contributors
 - Name : Gundu pooja
 - Course :Applied computer science
-![image](https://cdn.pixabay.com/photo/2018/09/23/18/30/drop-3698073_960_720.jpg)
+![image](https://github.com/GUNDUPOOJA/about-me1/blob/master/poojanamepic.jpg?raw=true)
 
 
