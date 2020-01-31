@@ -1,9 +1,9 @@
 # about-me
   Module 1: P1 Published Site Web Applications Assignment
-
+(
 ## Repository links
-- [Source repository](https://github.com/GUNDUPOOJA/about-me1/blob/master/README.md)
-- [Hosted page](https://gundupooja.github.io/about-me1/)
+- [Source repository](https://github.com/GUNDUPOOJA/about-me1)
+- [Hosted page]
 ## about
 This repository is about me and to explain the tools required for web development.
 
@@ -25,6 +25,6 @@ In order to publish a page to git hub pages the following things are strongly re
 ## contributors
 - Name : Gundu pooja
 - Course :Applied computer science
-![image](https://github.com/GUNDUPOOJA/about-me1/blob/master/poojanamepic.jpg)
+![image](https://cdn.pixabay.com/photo/2018/09/23/18/30/drop-3698073_960_720.jpg)
 
 
