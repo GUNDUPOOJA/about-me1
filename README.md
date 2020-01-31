@@ -3,7 +3,7 @@
 
 ## Repository links
 - [Source repository](https://github.com/GUNDUPOOJA/about-me1)
-- [Hosted page]
+- [Hosted page](https://gundupooja.github.io/about-me1/)
 ## about
 This repository is about me and to explain the tools required for web development.
 
